@@ -24,13 +24,13 @@
         </activity>
   
         <activity
-            android:name="com.example.ggftb.Crowdsource"
+            android:name="com.example.ggftb.CrowdsourceActivity"
             android:label="@string/app_name" >
 
         </activity>
    
         <activity
-            android:name="com.example.ggftb.Picture"
+            android:name="com.example.ggftb.PictureActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -40,7 +40,7 @@
         </activity>
     
         <activity
-            android:name="com.example.ggftb.Text"
+            android:name="com.example.ggftb.TextActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
