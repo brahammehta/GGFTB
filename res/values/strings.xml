@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GGFTB</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Welcome to Google Glass for the Blind</string>
+    <string name="button_Crowdsource">Crowdsource!</string>
+    <string name="button_Text">Text to Speech!</string>
+    <string name="button_Picture">Picture to Speech</string>
+
+</resources>
