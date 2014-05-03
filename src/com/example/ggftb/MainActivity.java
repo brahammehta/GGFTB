@@ -22,17 +22,17 @@ public class MainActivity extends Activity {
 	}
 	public void sendCrowdsource(View view) {
 	    //Do something in response to button
-		Intent intent = new Intent(this, Crowdsource.class);
+		Intent intent = new Intent(this, CrowdsourceActivity.class);
 		startActivity(intent);
 	}
 	public void sendPicture(View view) {
 	    //Do something in response to button
-		Intent intent = new Intent(this, Picture.class);
+		Intent intent = new Intent(this, PictureActivity.class);
 		startActivity(intent);
 	}
 	public void sendText(View view) {
 	    //Do something in response to button
-		Intent intent = new Intent(this, Text.class);
+		Intent intent = new Intent(this, TextActivity.class);
 		startActivity(intent);
 	}
 }
